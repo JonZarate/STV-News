@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">STV News</string>
+    <string name="article_headline">Headline</string>
+    <string name="article_subheadline">Subheadline</string>
+</resources>
